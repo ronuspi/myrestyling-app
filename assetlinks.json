@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.myrestyling.app",
+        "sha256_cert_fingerprints": ["19:48:AB:05:AC:80:0B:2E:9C:6F:12:B4:F8:7A:07:61:54:13:6B:F8:DA:DB:C7:73:15:44:20:8E:6B:5E:F4:50"]
+      }
+    }]
